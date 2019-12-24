@@ -1,0 +1,20 @@
+body {
+    background-color: #2c8500;
+
+}
+.container {
+    text-align: center;
+}
+
+.container h1 {
+    color: white;
+}
+
+.container img {
+    border: 5px white solid;
+    border-radius: .5em;
+}
+
+.container figcaption {
+    color: white;
+}
